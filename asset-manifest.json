@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/todoclone/static/js/main.5f6d3a2f.js",
+    "index.html": "/todoclone/index.html",
+    "main.5f6d3a2f.js.map": "/todoclone/static/js/main.5f6d3a2f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5f6d3a2f.js"
+  ]
+}
