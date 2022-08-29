@@ -13,7 +13,7 @@ const TrashCanWrapper = styled.div<IArea>`
   right: 25px;
   width: 33px;
   height: 40px;
-  background: ${props => props.isDraggingOver ? "url('./trash2.png');":props.draggingFromThis ?"url('./trash2.png');":"url('./trash2.png');"};
+  background: ${props => props.isDraggingOver ? "url('./trash.png');":props.draggingFromThis ?"url('./trash2.PNG');":"url('./trash2.PNG');"};
                                                 /* public 폴더에 이미지를 넣었을경우 ./ */
   background-position: center;
   background-size: cover;
